@@ -194,7 +194,7 @@ Contributions are welcome to make PocketPhoto even better!
 
 ## 📄 License
 
-This project is licensed under the [MIT License]().  
+This project is licensed under the [MIT License](https://github.com/TiwariAry/PocketPhoto/blob/main/LICENSE).  
 Feel free to fork, modify, and build on it.
 
 ---
