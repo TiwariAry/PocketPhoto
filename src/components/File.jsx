@@ -137,7 +137,7 @@ const File = () => {
                             />
 
                             <img
-                                src={'../../public/image-gallery.png'}
+                                src={'/image-gallery.png'}
                                 alt="upload"
                                 className="w-[60px]"
                             />
